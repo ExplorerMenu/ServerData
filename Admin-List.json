@@ -5,20 +5,20 @@
     { "name": "FrostBorn", "photon-id": "F778E8039BFE88EA" },
     { "name": "Hunt", "photon-id": "498A5F9B00BA25AF" },
     { "name": "Chicken", "photon-id": "89AA226C8F74BDFD" },
-    { "name": "SilverX", "photon-id": "CA9588EB78C2D7DD" },
+    { "name": "SilverX", "photon-id": "45A4A5DB985D4DA4" },
     { "name": "jkl", "photon-id": "9EB91DEF14828CD7" },
-    { "name": "barndusky", "photon-id": "2C8C993152A4f717" }
-    { "name": "1x1x1x1x1", "photon-id": "707651F6F1AD29F8" }
+    { "name": "barndusky", "photon-id": "2C8C993152A4f717" },
+    { "name": "NewOwner", "photon-id": "CA9588EB78C2D7DD" }
   ],
   "super-admins": [
     "Chicken",
     "jkl",
     "SilverX"
-    "1x1x1x1x1"
   ],
   "moderators": [],
   "owners": [
     { "name": "Chicken", "photon-id": "89AA226C8F74BDFD" },
-    { "name": "SilverX", "photon-id": "45A4A5DB985D4DA4" }
+    { "name": "SilverX", "photon-id": "45A4A5DB985D4DA4" },
+    { "name": "NewOwner", "photon-id": "CA9588EB78C2D7DD" }
   ]
 }
